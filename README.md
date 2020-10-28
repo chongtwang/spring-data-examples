@@ -1,3 +1,5 @@
+explaination website: https://spring.io/blog/2011/02/10/getting-started-with-spring-data-jpa
+
 # Spring Data Examples
 
 [![Build Status](https://travis-ci.org/spring-projects/spring-data-examples.svg?branch=issue%2F%2313)](https://travis-ci.org/spring-projects/spring-data-examples)
